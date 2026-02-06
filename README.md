@@ -52,6 +52,3 @@ Python (Pandas, NumPy) · Jupyter Notebook · Power BI · DAX
 
 ## Author
 **Sravan Kumar Reddy Perugu** · Master’s Student (2026)
-
-
-## Repository Structure
